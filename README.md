@@ -2,6 +2,7 @@
 This program uses spring boot 2 to creating the rest api and mysql as the database.
 
 **Mysql setup**
+
 create database schoolmanagement;
 
 use schoolmanagement;
