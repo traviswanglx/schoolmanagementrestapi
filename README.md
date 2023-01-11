@@ -64,9 +64,13 @@ CREATE TABLE student_teacher(
 
 **Links for all the api**
 localhost:8080/schoolmanagement/api/teachers
+
 localhost:8080/schoolmanagement/api/students
+
 localhost:8080/schoolmanagement/api/register
+
 localhost:8080/schoolmanagement/api/commonstudents?teacher=teachermary%40gmail.com
+
 localhost:8080/schoolmanagement/api/suspend
 
 
