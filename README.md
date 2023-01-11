@@ -62,4 +62,11 @@ CREATE TABLE student_teacher(
 
 ![image](https://user-images.githubusercontent.com/88640243/211834436-39be25a7-b181-4db0-92a7-c12333bb302d.png)
 
+**Links for all the api**
+localhost:8080/schoolmanagement/api/teachers
+localhost:8080/schoolmanagement/api/students
+localhost:8080/schoolmanagement/api/register
+localhost:8080/schoolmanagement/api/commonstudents?teacher=teachermary%40gmail.com
+localhost:8080/schoolmanagement/api/suspend
+
 
