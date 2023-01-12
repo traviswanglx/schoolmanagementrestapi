@@ -62,6 +62,9 @@ CREATE TABLE student_teacher(
 
 ![image](https://user-images.githubusercontent.com/88640243/211834436-39be25a7-b181-4db0-92a7-c12333bb302d.png)
 
+**Junit test coverage**
+![image](https://user-images.githubusercontent.com/88640243/212088701-a8d0405b-1f93-423a-ab0b-8e6f33c01799.png)
+
 **Links for all the api**
 
 localhost:8080/schoolmanagement/api/teachers
